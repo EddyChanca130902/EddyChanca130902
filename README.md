@@ -24,5 +24,5 @@ Estudiante de 9no semestre de **Ingeniería de Sistemas**, enfocado en el desarr
 
 ### 🌐 Conectemos
 * **LinkedIn:** [https://www.linkedin.com/in/eddychanca13/]
-* **Correo:** eddy13m.j@hotmail.com[cite: 1]
-* **Ubicación:** Lima, Perú[cite: 1]
+* **Correo:** eddy_13_mj@hotmail.com
+* **Ubicación:** Lima, Perú
