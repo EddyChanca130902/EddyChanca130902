@@ -17,8 +17,8 @@ Estudiante de 9no semestre de **Ingeniería de Sistemas**, enfocado en el desarr
   * Auditoría de puertos en escucha y configuración de políticas de control perimetral utilizando **UFW (Uncomplicated Firewall)** bajo el principio de mínimo privilegio.
 * **[Network Traffic Analysis (Wireshark)](https://github.com/tu-usuario/nombre-del-repo)**
   * Configuración de permisos de kernel e interfaces físicas (`wlo1`) para la captura, filtrado y análisis ético de tráfico de red y peticiones DNS en entornos de laboratorio[cite: 1].
-* **[Proyectos de Redes Académicos](https://github.com/tu-usuario/nombre-del-repo)**
-  * Configuración de redes, VLANs, routing, DHCP y controles básicos de seguridad[cite: 1].
+* **[Proyectos de Redes Académicos](https://github.com/EddyChanca130902/Proyectos-de-Redes-Acad-micos)**
+  * Configuración de redes, VLANs, routing, DHCP y controles básicos de seguridad.
 
 ---
 
