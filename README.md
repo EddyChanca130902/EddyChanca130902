@@ -19,6 +19,9 @@ Estudiante de 9no semestre de **Ingeniería de Sistemas**, enfocado en el desarr
   * Configuración de redes, VLANs, routing, DHCP y controles básicos de seguridad.
 
 ---
+### 💼 Portafolio web 
+  * **[Click aquí para conocerme un poco más)](https://portafoliowebeddychanca.netlify.app/#proyectos)**
+---
 
 ### 🌐 Conectemos
 * **LinkedIn:** [https://www.linkedin.com/in/eddychanca13/]
