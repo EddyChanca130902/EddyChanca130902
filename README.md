@@ -20,7 +20,7 @@ Estudiante de 9no semestre de **Ingeniería de Sistemas**, enfocado en el desarr
 
 ---
 ### 💼 Portafolio web 
-  * **[Click aquí para conocerme un poco más)](https://portafoliowebeddychanca.netlify.app/#proyectos)**
+  * **[Click aquí para conocerme un poco más](https://portafoliowebeddychanca.netlify.app/#proyectos)**
 ---
 
 ### 🌐 Conectemos
